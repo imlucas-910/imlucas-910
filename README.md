@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imlucas-910
 - I'm a student
 - 👀 I’m interested in football
-- I like Mancherster United best!!!
+- I like **Mancherster United** best!
 - 🌱 I’m currently learning c++
 - 📫 How to reach me:lucascyh@163.com
 - 😄 Pronouns:he
