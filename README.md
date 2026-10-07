@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @imlucas-910
-- I'm a student
-- 👀 I’m interested in football
-- I like **Mancherster United** best!
+-  I'm a student
+- 🌟I'm a fan of **TF-Entertainment**.
+- ⚽I like **Mancherster United** 
 - 🌱 I’m currently learning c++
-- 📫 How to reach me:lucascyh@163.com
-- 😄 Pronouns:he
+- 📫 How to reach me: lucascyh@163.com
+- 😄 Pronouns:He
 
 <!---
 imlucas-910/imlucas-910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
