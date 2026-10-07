@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @imlucas-910
--  I'm a student
-- 🌟I'm a fan of **TF-Entertainment**.
-- ⚽I like **Mancherster United** 
+- 📖 I'm a student
+- 🎹 I can play the piano
+- 🌟 I'm a fan of **TF-Entertainment**.
+- ⚽ I like **Mancherster United** 
 - 🌱 I’m currently learning c++
 - 📫 How to reach me: lucascyh@163.com
 - 😄 Pronouns:He
